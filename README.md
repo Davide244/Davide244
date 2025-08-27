@@ -6,6 +6,7 @@
 - C++
 - C#
 - JavaScript
+- TypeScript
 - Lua
 
 <br>And I can also design some decent UI in XAML :)
